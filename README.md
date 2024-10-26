@@ -69,6 +69,8 @@
 <br/>
 
 ## Contribution
-<div align="center">
-    <img src="https://github-readme-stats-git-master-aneesh-raghavendras-projects.vercel.app/api?username=aneeshrao&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&show=prs_merged_percentage&rank_icon=percentile&card_width=1000" alt="GitHub Stats" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats-git-master-aneesh-raghavendras-projects.vercel.app/api?username=aneeshrao&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&show=prs_merged_percentage&rank_icon=percentile&custom_title=GitHub%20Stats&card_width=1000" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-git-master-aneesh-raghavendras-projects.vercel.app/api/top-langs/?username=aneeshrao&layout=compact&theme=codeSTACKr&card_width=1000&langs_count=5" alt="Top Languages" />
 </div>
