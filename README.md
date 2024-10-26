@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*NfEWiCes9ovKjMbzQa6Wkg@2x.jpeg" align="center" style="width: 10%; height: 10%" />
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/029/711/176/small_2x/developer-with-ai-generated-free-png.png" align="center" style="width: 10%; height: 10%;" />
 </div>
 <br/>  
 
@@ -22,7 +22,7 @@
 </a>
 <a href="https://github.com/aneeshrao" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
 </div>
 <br/>  
 
