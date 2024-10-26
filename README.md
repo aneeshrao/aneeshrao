@@ -6,7 +6,7 @@
 
 <div align="center" style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 20px;">
   <p>
-    Hi, I'm Aneesh, a dedicated and passionate Full Stack Developer with 3+ years of experience in the IT industry. 
+    Hi, I'm Aneesh Raghavendra, a dedicated and passionate Full Stack Developer with 3+ years of experience in the IT industry. 
     I specialize in Python, JavaScript, and their respective frameworks, including Django Rest, Django CMS, 
     Next.js, and React.js. Throughout my career, I’ve consistently built, optimized, and managed robust 
     web applications, delivering high-quality solutions.
@@ -64,6 +64,11 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>
+
+## Contribution
+<div align="center">
+    <img src="https://github-readme-stats-git-master-aneesh-raghavendras-projects.vercel.app/api?username=aneeshrao&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&show=prs_merged_percentage&rank_icon=percentile&card_width=1000" alt="GitHub Stats" />
+</div>
