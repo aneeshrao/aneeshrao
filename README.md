@@ -14,17 +14,21 @@
 </div>
 
 <div align="center">
-<a href="https://instagram.com/aneesh._.raghavendra" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/aneesh-raghavendra" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="mailto:aneeshraghavendra85@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" 
+       alt="Gmail Badge" style="margin-bottom: 5px; height:27px;" />
 </a>
 <a href="https://github.com/aneeshrao" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://linkedin.com/in/aneesh-raghavendra" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/aneesh._.raghavendra" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 </div>
-<br/>  
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
