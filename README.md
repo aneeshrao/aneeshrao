@@ -71,9 +71,3 @@
 </td></tr></table>
 
 <br />
-
-<p align="center">
-  ✨ Visitor Count ✨<br><br/>
-  <img src="https://profile-counter.glitch.me/aneeshrao/count.svg" alt="Visitor Count" />
-</p>
-
