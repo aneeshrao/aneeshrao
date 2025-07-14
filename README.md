@@ -6,9 +6,9 @@
 
 <div align="center" style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 20px;">
   <p>
-    Hi, I'm Aneesh Raghavendra, a dedicated and passionate Full Stack Developer with 3+ years of experience in the IT industry. 
-    I specialize in Python, JavaScript, and their respective frameworks, including Django Rest, Django CMS, 
-    Next.js, and React.js. Throughout my career, I’ve consistently built, optimized, and managed robust 
+    Hi, I'm Aneesh Raghavendra, a dedicated and passionate Full Stack Developer with 4+ years of experience in the IT industry. 
+    I specialize in Python, JavaScript, and their respective frameworks, including Django Rest, Django CMS, Contentful CMS
+    Next.js. Throughout my career, I’ve consistently built, optimized, and managed robust 
     web applications, delivering high-quality solutions.
   </p>
 </div>
@@ -69,5 +69,3 @@
 </div>
 
 </td></tr></table>
-
-<br />
