@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshraghavendra&theme=highcontrast" alt="aneeshraghavendra" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshrao&theme=highcontrast" alt="aneeshrao" width="450" />
 </p>
 
 ---
