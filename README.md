@@ -47,12 +47,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshrao&theme=highcontrast" alt="aneeshrao" width="450" />
-</p>
-
----
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
