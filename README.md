@@ -14,12 +14,6 @@
     </p>
 </div>
 
-<p align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rw34lwh68io7wnov879tvg488&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rw34lwh68io7wnov879tvg488&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4fb14e&bar_color_cover=true" alt="spotify-github-profile"/>
-</a>
-</p>
-
 ---
 
 <h3 align="center">Languages and Tools used:</h3>
