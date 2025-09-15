@@ -8,9 +8,9 @@
 
 <div align="center" style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 20px;">
     <p>
-        Hi, I'm Aneesh Raghavendra, a dedicated and passionate Full Stack Developer with 4+ years of experience in the IT industry. 
-        I specialize in Python, JavaScript, and their respective frameworks, including Django RF, Django CMS, Contentful CMS,
-        Next.js. Throughout my career, I’ve consistently built, optimized, and managed robust web applications, delivering high-quality solutions.
+        Hi, I'm Aneesh Raghavendra,A dedicated and passionate Full Stack Developer with over 4 years of experience in the IT industry. Throughout my career, I have consistently designed,
+        developed, and optimized web applications, ensuring scalability, performance, and high-quality user experiences. I take pride in delivering reliable solutions that meet business needs
+        and drive impact.
     </p>
 </div>
 
